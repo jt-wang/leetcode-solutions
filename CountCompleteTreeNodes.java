@@ -7,7 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class CountCompleteTreeNodes {
+public class Solution {
 
     public int getHeight(TreeNode node){
   
