@@ -1,3 +1,3 @@
 # LeetCodeSolutions
 
-## under Java 8
+## under Java and JavaScript
