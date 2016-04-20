@@ -16,7 +16,7 @@ var singleNumber = function(nums) {
     nums.forEach(function (num) {
        if (map[num] == 1) {
            result_list.push(num);
-       } 
+       }
     });
     return result_list;
 };

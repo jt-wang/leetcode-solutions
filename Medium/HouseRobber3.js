@@ -6,7 +6,7 @@ function TreeNode(val) {
 
 var rob = function (root) {
   return getValue(root);
-}
+};
 
 //动态规划方程
 //
