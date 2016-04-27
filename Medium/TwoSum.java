@@ -9,7 +9,7 @@ public class Solution {
         for(int i = 0; i < nums.length; i++){
             hash.put(nums[i], i);
         }
-        
+
         for(int i = 0; i < nums.length; i++){
             Integer correspondence = hash.get(target-nums[i]);
             if(correspondence != null && correspondence != i){
@@ -20,7 +20,7 @@ public class Solution {
                     index1 = index2;
                     index2 = temp;
                 }
-                
+
                 index1 += 1;
                 index2 += 1;
                 break;
@@ -29,10 +29,10 @@ public class Solution {
 
         indexArr[0] = index1;
         indexArr[1] = index2;
-        
+
         return indexArr;
     }
 
-    
+
 
 }
