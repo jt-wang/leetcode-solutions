@@ -1,3 +1,3 @@
 # Leetcode-Solutions
 
-## under Java and JavaScript(most used)
+## under Java, JavaScript and Python
