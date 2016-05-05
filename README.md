@@ -1,3 +1,3 @@
 # Leetcode-Solutions
 
-## under Java, JavaScript and Python
+## under Java 8, JavaScript and Python 3
