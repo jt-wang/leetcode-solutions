@@ -19,5 +19,5 @@ print(Solution().removeDuplicates([1, 2, 3, 4]))
 
 '''
 Attention: all of the 'solution' that is not implemented by reversed/backward deleting are wrong.
-Because the index/iterator depends on the original length.
+Because the index/iterator depends on the original length. and you can not cut off the tree's branch on which you sit.
 '''
